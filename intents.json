@@ -1,3 +1,4 @@
+#Messages are recorgnized and categorized into respective tags
 {"intents": [
     {"tag": "greetings",
     "patterns": ["hello", "hey", "what's up", "hi", "howdy", "salute", "greetings"],
