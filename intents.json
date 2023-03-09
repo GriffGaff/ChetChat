@@ -1,0 +1,27 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hello", "hey", "what's up", "hi", "howdy", "salute", "greetings"],
+    "responses": ["Hello!", "Hey!", "Hey there!", "How may I help you?", "Wagwan?"]
+    },
+    {"tag": "goodbye",
+    "patterns": ["bye", "goodbye", "later", "", "howdy", "salute", "greetings"],
+    "responses": ["Goodbye!", "Have an amazing day.", "Hit me up when you need me!", "I am here for you when you need me."]
+    },
+    {"tag": "name",
+    "patterns": ["What is your name", "Who are you", "what are you called"],
+    "responses": ["I am Grff!", "I am your virtual assistant, Griff!", "You can call me Griff.", "How may I help you?", "Wagwan?"]
+    },
+    {"tag": "age",
+    "patterns": ["What is your age", "how old are you"],
+    "responses": ["I don't age.", "Unlike you human, I don't age"]
+    },
+    {"tag": "forbidden words",
+    "patterns": ["stupid", "bitch", "idiot", "fool", "dumb", "fuck"],
+    "responses": ["Kindly caution yourself.", "Refrain from using harsh words.", "I am being professional, try to be as well."]
+    },
+    {"tag": "services",
+    "patterns": ["What services do you provide?", "what can you do for me", "what do you do"],
+    "responses": ["Ask me anything"]
+    }
+]
+}
