@@ -12,9 +12,9 @@ This project is an AI-powered customer service assistant developed using the Pyt
 # Installation
 **Clone the Repository:**
 
->git clone https://github.com/yourusername/ai-customer-service.git
+>git clone https://github.com/yourusername/chetchat.git
 
-cd ai-customer-service
+cd chetchat
 
 Install Dependencies:
 
